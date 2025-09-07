@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+httpx
+selectolax
+chromadb
+langchain
+langchain-google-genai
+langchain-chroma
+serpapi
+weasyprint
+markdown
+pydantic
+python-dotenv
+tenacity
+aiofiles
+python-multipart
